@@ -8,7 +8,9 @@
   </a>
 </p>
 
---- ✨ ---
+--- 
+✨ 
+---
 
 <div align="center">
 
@@ -30,7 +32,9 @@
 
 </div>
 
---- ✨ ---
+--- 
+✨ 
+---
 
 <!-- Typing SVG -->
 <p align="center">
@@ -53,10 +57,11 @@
   🤔 <b>I’m looking for help with:</b> Advanced MERN Stack concepts & ML algorithms. <br>
   💬 <b>Ask me about:</b> Anything related to my skills, project ideas, or tech trends! <br>
   📫 <b>Get in Touch:</b> <a href="mailto:varanasisaideepak@gmail.com">varanasisaideepak@gmail.com</a> <br>
-  😄 <b>Fun Fact:</b> [➡️ **ADD YOUR FUN FACT HERE!** ⬅️ e.g., I love solving complex puzzles!]
 </p>
 
---- ✨ ---
+--- 
+✨ 
+---
 
 <h2 align="center">🛠️ My Tech Arsenal</h2>
 
@@ -115,7 +120,9 @@
   </tr>
 </table>
 
---- ✨ ---
+--- 
+✨
+---
 
 <h2 align="center">🔗 Let's Connect!</h2>
 
@@ -128,6 +135,8 @@
   <a href="mailto:varanasisaideepak@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email Me" height="45" width="50" /></a>
 </p>
 
---- ✨ ---
+--- 
+✨ 
+---
 
 <p align="center">⭐️ Crafted with ❤️ by <a href="https://github.com/deepu1004" target="_blank">Deepu Varanasi</a> ⭐️</p>
