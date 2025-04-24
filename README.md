@@ -12,7 +12,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=87CEEB¢er=true&vCenter=true&width=450&lines=Software+Developer;Full-Stack+Enthusiast;MERN+Stack+Explorer;Data+Science+Learner;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=87CEEB%C2%A2er=true&vCenter=true&width=435&lines=Software+Developer;Full-Stack+Enthusiast;MERN+Stack+Explorer;Data+Science+Learner" alt="Typing SVG" />
 </p>
 
 ---
