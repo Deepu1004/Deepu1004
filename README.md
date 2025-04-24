@@ -38,7 +38,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img align="center" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=87CEEB¢er=true&vCenter=true&width=435&lines=Software+Developer;Full-Stack+Enthusiast;MERN+Stack+Explorer;Data+Science+Learner" alt="Typing SVG" />
+  <img align="center" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=87CEEB%C2%A2er=true&vCenter=true&width=435&lines=Software+Developer;Full-Stack+Enthusiast;MERN+Stack+Explorer;Data+Science+Learner" alt="Typing SVG" />
 </p>
 
 <h2 align="center">🚀 About Me</h2>
