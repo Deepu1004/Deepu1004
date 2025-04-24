@@ -1,7 +1,4 @@
-<!-- Banner -->
-<p align="center">
-  <img src="animated.gif" alt="Coding Banner" width="800"/>
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Deepu Varanasi</h1>
 <h3 align="center">A Passionate Software Developer from India 🇮🇳 | Crafting Code & Exploring Data</h3>
