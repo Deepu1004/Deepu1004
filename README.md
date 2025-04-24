@@ -8,9 +8,6 @@
   </a>
 </p>
 
---- 
-✨ 
----
 
 <div align="center">
 
@@ -31,10 +28,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepu1004&bg_color=1a1b27&color=79ff97&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 
 </div>
-
---- 
-✨ 
----
 
 <!-- Typing SVG -->
 <p align="center">
@@ -59,9 +52,7 @@
   📫 <b>Get in Touch:</b> <a href="mailto:varanasisaideepak@gmail.com">varanasisaideepak@gmail.com</a> <br>
 </p>
 
---- 
-✨ 
----
+
 
 <h2 align="center">🛠️ My Tech Arsenal</h2>
 
@@ -120,9 +111,7 @@
   </tr>
 </table>
 
---- 
-✨
----
+
 
 <h2 align="center">🔗 Let's Connect!</h2>
 
@@ -135,8 +124,5 @@
   <a href="mailto:varanasisaideepak@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email Me" height="45" width="50" /></a>
 </p>
 
---- 
-✨ 
----
 
 <p align="center">⭐️ Crafted with ❤️ by <a href="https://github.com/deepu1004" target="_blank">Deepu Varanasi</a> ⭐️</p>
