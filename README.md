@@ -4,17 +4,28 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=deepu1004&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="deepu1004 profile views" />
 </p>
-<!-- GitHub Stats - Using a table for side-by-side layout -->
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=deepu1004&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="deepu1004 github stats" height="170px" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepu1004&layout=compact&locale=en&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" alt="deepu1004 top languages" height="170px" />
-    </td>
-  </tr>
-</table>
+
+---
+
+<div align="center">
+
+<h2 align="center">📈 My GitHub Stats & Activity</h2>
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=deepu1004&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="deepu1004 github stats" height="190px" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepu1004&layout=compact&locale=en&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" alt="deepu1004 top languages" height="190px" />
+
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepu1004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepu1004&bg_color=1a1b27&color=79ff97&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+
+</div>
+
+---
 <!-- Typing SVG (Optional - Generates a typing animation) -->
 <!-- Generate yours at: https://readme-typing-svg.demolab.com/demo/ -->
 <p align="center">
