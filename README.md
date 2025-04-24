@@ -1,8 +1,4 @@
-<p align="center">
-  <!-- === REPLACE THIS WITH YOUR COOL BANNER/GIF === -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZxa3Q1dWpzYTh6NjdscWJzMXJidWN0YWNwdmgycG16NWFuZDE0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Coding Banner" width="80%"/>
-  <!-- === END BANNER === -->
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Deepu Varanasi</h1>
 <h3 align="center">🚀 Passionate Software Developer | 📊 Data Explorer | 🇮🇳 India</h3>
