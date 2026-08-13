@@ -13,15 +13,6 @@
 
 <h2 align="center">📈 My GitHub Stats & Activity</h2>
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=deepu1004&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="deepu1004 github stats" height="190px" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepu1004&layout=compact&locale=en&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" alt="deepu1004 top languages" height="190px" />
-
-<!-- Streak Stats -->
-<br> <!-- Optional: Add a line break if needed for spacing -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepu1004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <!-- Contribution Graph -->
 <br> <!-- Optional: Add a line break if needed for spacing -->
